@@ -1,1 +1,22 @@
+test case 1:
+Input
+s =
+"(name)is(age)yearsold"
+knowledge =
+[["name","bob"],["age","two"]]
+Output
+"bobistwoyearsold"
+Expected
+"bobistwoyearsold"
 
+test case 2:
+
+Input
+s =
+"hi(name)"
+knowledge =
+[["a","b"]]
+Output
+"hi?"
+Expected
+"hi?"
