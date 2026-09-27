@@ -6,3 +6,12 @@ Output
 "dcba"
 Expected
 "dcba"
+
+
+Input
+s =
+"(u(love)i)"
+Output
+"iloveu"
+Expected
+"iloveu"
