@@ -1,1 +1,8 @@
 
+Input
+s =
+"IceCreAm"
+Output
+"AceCreIm"
+Expected
+"AceCreIm"
