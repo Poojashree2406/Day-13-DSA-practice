@@ -9,3 +9,17 @@ Output
 [["hit","hot","dot","dog","cog"],["hit","hot","lot","log","cog"]]
 Expected
 [["hit","hot","dot","dog","cog"],["hit","hot","lot","log","cog"]]
+
+
+
+Input
+beginWord =
+"hit"
+endWord =
+"cog"
+wordList =
+["hot","dot","dog","lot","log"]
+Output
+[]
+Expected
+[]
