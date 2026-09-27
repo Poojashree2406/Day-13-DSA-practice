@@ -6,3 +6,11 @@ Output
 "AceCreIm"
 Expected
 "AceCreIm"
+
+Input
+s =
+"leetcode"
+Output
+"leotcede"
+Expected
+"leotcede"
