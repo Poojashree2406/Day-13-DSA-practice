@@ -1,1 +1,17 @@
 
+Input
+n =
+4
+Output
+false
+Expected
+false
+
+
+n =
+1
+Output
+true
+Expected
+true
+
